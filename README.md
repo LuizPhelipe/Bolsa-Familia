@@ -16,10 +16,35 @@ As bases estão disponiveis em dois arquivos que são as seguintes:
 
 ### Bolsa Familia Base.xlsx
 
-Campo01:
+Mes Arquivo:
+Regiao:	
+Estado:	
+Nome Município:	
+Total Pago:	
+Total Saque:	
+Qtd Beneficios Pagos:	
+Qtd Beneficios Sacados:	
+Saldo de Sobra:	
+Percentual de Sobra:	
+Beneficios Não Sacados:
+
 
 
 ### Estado x PopulacaoV2.xlsx
 
 
-Campo01:
+UF:
+Estado:	
+Regiao:	
+Area:	
+Populacao Estimada:	
+Populacao ult censo:	
+Total de veículos:	
+Matr Ensino Fundamental:	
+Matr Ensino Medio:	
+Docentes Ensino Fundamental:	
+Docentes Ensino Médio:	
+Nr estabel Ensino Fundamental:	
+Nr Estabelecimentos Ensino Medio:	
+IDH:	
+IMAGEM:
