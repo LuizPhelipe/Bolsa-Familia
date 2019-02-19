@@ -14,6 +14,11 @@ Bases de Beneficios Concedidos e Beneficios Sacados dos anos de 2015, 2014 e 201
 
 ## Bases Tratadas
 
+### Valor_Saldo.csv
+
+Arquivo com dados de Beneficios Duplicados por agrupados por Valor do Beneficio (https://drive.google.com/drive/u/1/folders/14s-yrpDOMZ_IJyiS8jV3FGqec8Wo_Mbv)
+
+
 As bases tratadas estão disponiveis em dois arquivos que são as seguintes (Bolsa Familia Base.xlsx e Estado x PopulacaoV2.xlsx):
 
 ### Bolsa Familia Base.xlsx
